@@ -1,0 +1,5 @@
+admin@admin.com,admin
+pranav@gmail.com,password1
+srinath@gmail.com, password2
+pranavambre12@gmail.com,
+adminpranavambre12@gmail.com,
